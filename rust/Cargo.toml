@@ -1,0 +1,15 @@
+[package]
+name = "slightly_rusty"
+version = "0.1.0"
+
+
+[profile.release]
+# enable debugging in release mode.
+debug = true
+panic = "abort"
+
+
+[profile.dev]
+panic = "abort"
+
+

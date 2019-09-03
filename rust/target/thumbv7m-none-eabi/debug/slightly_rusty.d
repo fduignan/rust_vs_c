@@ -1,0 +1,1 @@
+/home/frank/Documents/programming/stm32f103c8t6/rust_vs_c/github/rust_vs_c/rust/target/thumbv7m-none-eabi/debug/slightly_rusty: /home/frank/Documents/programming/stm32f103c8t6/rust_vs_c/github/rust_vs_c/rust/src/main.rs

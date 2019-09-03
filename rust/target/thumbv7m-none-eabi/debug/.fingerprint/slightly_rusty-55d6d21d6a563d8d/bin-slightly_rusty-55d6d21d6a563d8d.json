@@ -1,0 +1,1 @@
+{"rustc":17867298027827706485,"features":"[]","target":14590720357364334159,"profile":14580975319137881965,"path":1036222786711178230,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"thumbv7m-none-eabi/debug/.fingerprint/slightly_rusty-55d6d21d6a563d8d/dep-bin-slightly_rusty-55d6d21d6a563d8d"}}],"rustflags":["-C","link-arg=memory.x"],"metadata":7797948686568424061}
